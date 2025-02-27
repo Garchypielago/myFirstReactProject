@@ -1,0 +1,21 @@
+.header{
+    background-color: lightblue;
+    color: midnightblue;
+}
+
+.title{
+    margin: 0;
+    padding: 2%;
+    text-align: center;
+}
+
+.header-list{
+    padding: 2%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.link{
+    color: azure;
+    text-decoration: none;
+}
